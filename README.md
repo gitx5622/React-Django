@@ -1,13 +1,12 @@
 # React-Django
 
-Backend development workflow
-virtualenv env
-source env/bin/activate
-pip install -r requirements.txt
-python manage.py runserver
+# Backend development workflow
 
-Frontend development workflow
-npm i
+python3 manage.py runserver
+
+# Frontend development workflow
+cd src
+
 npm start
-For deploying
-npm run build
+
+
